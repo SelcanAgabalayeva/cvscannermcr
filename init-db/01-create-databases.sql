@@ -1,0 +1,4 @@
+CREATE DATABASE auth_db;
+CREATE DATABASE upload_db;
+CREATE DATABASE candidate_db;
+CREATE DATABASE batch_db;
