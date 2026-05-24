@@ -12,7 +12,7 @@ import java.util.List;
 @RequestMapping("/api/candidates")
 @RequiredArgsConstructor
 public class CandidateController {
-
+//can
     private final CandidateService candidateService;
 
     @PostMapping
